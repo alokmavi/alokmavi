@@ -1,29 +1,29 @@
-<svg width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <pattern id="checker" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="10" height="10" fill="#eeeed2"/>
-      <rect x="10" y="0" width="10" height="10" fill="#769656"/>
-      <rect x="0" y="10" width="10" height="10" fill="#769656"/>
-      <rect x="10" y="10" width="10" height="10" fill="#eeeed2"/>
-    </pattern>
     <style>
-      .divider-line { stroke: #333; stroke-width: 2; opacity: 0.3; }
-      .text { font-family: monospace; fill: #769656; font-size: 14px; font-weight: bold; }
+      .white-sq { fill: #f0d9b5; }
+      .black-sq { fill: #b58863; }
+      .piece { font-size: 40px; text-anchor: middle; dominant-baseline: middle; font-family: 'Arial Unicode MS', 'Segoe UI Symbol', sans-serif; }
+      .border { stroke: #4a3c31; stroke-width: 10; fill: none; }
     </style>
   </defs>
 
-  <rect x="0" y="10" width="800" height="40" fill="url(#checker)" opacity="0.8"/>
-  
-  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#0d1117" stop-opacity="1" />
-    <stop offset="20%" stop-color="#0d1117" stop-opacity="0" />
-    <stop offset="80%" stop-color="#0d1117" stop-opacity="0" />
-    <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
-  </linearGradient>
-  <rect x="0" y="10" width="800" height="40" fill="url(#fade)" />
+  <g id="board">
+    <rect x="0" y="0" width="50" height="50" class="white-sq"/><rect x="50" y="0" width="50" height="50" class="black-sq"/><rect x="100" y="0" width="50" height="50" class="white-sq"/><rect x="150" y="0" width="50" height="50" class="black-sq"/><rect x="200" y="0" width="50" height="50" class="white-sq"/><rect x="250" y="0" width="50" height="50" class="black-sq"/><rect x="300" y="0" width="50" height="50" class="white-sq"/><rect x="350" y="0" width="50" height="50" class="black-sq"/>
+    <rect x="0" y="50" width="50" height="50" class="black-sq"/><rect x="50" y="50" width="50" height="50" class="white-sq"/><rect x="100" y="50" width="50" height="50" class="black-sq"/><rect x="150" y="50" width="50" height="50" class="white-sq"/><rect x="200" y="50" width="50" height="50" class="black-sq"/><rect x="250" y="50" width="50" height="50" class="white-sq"/><rect x="300" y="50" width="50" height="50" class="black-sq"/><rect x="350" y="50" width="50" height="50" class="white-sq"/>
+    <rect x="0" y="100" width="50" height="50" class="white-sq"/><rect x="50" y="100" width="50" height="50" class="black-sq"/><rect x="100" y="100" width="50" height="50" class="white-sq"/><rect x="150" y="100" width="50" height="50" class="black-sq"/><rect x="200" y="100" width="50" height="50" class="white-sq"/><rect x="250" y="100" width="50" height="50" class="black-sq"/><rect x="300" y="100" width="50" height="50" class="white-sq"/><rect x="350" y="100" width="50" height="50" class="black-sq"/>
+    <rect x="0" y="150" width="50" height="50" class="black-sq"/><rect x="50" y="150" width="50" height="50" class="white-sq"/><rect x="100" y="150" width="50" height="50" class="black-sq"/><rect x="150" y="150" width="50" height="50" class="white-sq"/><rect x="200" y="150" width="50" height="50" class="black-sq"/><rect x="250" y="150" width="50" height="50" class="white-sq"/><rect x="300" y="150" width="50" height="50" class="black-sq"/><rect x="350" y="150" width="50" height="50" class="white-sq"/>
+    <rect x="0" y="200" width="50" height="50" class="white-sq"/><rect x="50" y="200" width="50" height="50" class="black-sq"/><rect x="100" y="200" width="50" height="50" class="white-sq"/><rect x="150" y="200" width="50" height="50" class="black-sq"/><rect x="200" y="200" width="50" height="50" class="white-sq"/><rect x="250" y="200" width="50" height="50" class="black-sq"/><rect x="300" y="200" width="50" height="50" class="white-sq"/><rect x="350" y="200" width="50" height="50" class="black-sq"/>
+    <rect x="0" y="250" width="50" height="50" class="black-sq"/><rect x="50" y="250" width="50" height="50" class="white-sq"/><rect x="100" y="250" width="50" height="50" class="black-sq"/><rect x="150" y="250" width="50" height="50" class="white-sq"/><rect x="200" y="250" width="50" height="50" class="black-sq"/><rect x="250" y="250" width="50" height="50" class="white-sq"/><rect x="300" y="250" width="50" height="50" class="black-sq"/><rect x="350" y="250" width="50" height="50" class="white-sq"/>
+    <rect x="0" y="300" width="50" height="50" class="white-sq"/><rect x="50" y="300" width="50" height="50" class="black-sq"/><rect x="100" y="300" width="50" height="50" class="white-sq"/><rect x="150" y="300" width="50" height="50" class="black-sq"/><rect x="200" y="300" width="50" height="50" class="white-sq"/><rect x="250" y="300" width="50" height="50" class="black-sq"/><rect x="300" y="300" width="50" height="50" class="white-sq"/><rect x="350" y="300" width="50" height="50" class="black-sq"/>
+    <rect x="0" y="350" width="50" height="50" class="black-sq"/><rect x="50" y="350" width="50" height="50" class="white-sq"/><rect x="100" y="350" width="50" height="50" class="black-sq"/><rect x="150" y="350" width="50" height="50" class="white-sq"/><rect x="200" y="350" width="50" height="50" class="black-sq"/><rect x="250" y="350" width="50" height="50" class="white-sq"/><rect x="300" y="350" width="50" height="50" class="black-sq"/><rect x="350" y="350" width="50" height="50" class="white-sq"/>
+  </g>
 
-  <text x="380" y="35" font-size="24">♔</text>
-  <text x="420" y="35" font-size="24">♕</text>
+  <text x="25" y="25" class="piece">♜</text><text x="75" y="25" class="piece">♞</text><text x="125" y="25" class="piece">♝</text><text x="175" y="25" class="piece">♛</text><text x="225" y="25" class="piece">♚</text><text x="275" y="25" class="piece">♝</text><text x="325" y="25" class="piece">♞</text><text x="375" y="25" class="piece">♜</text>
+  <text x="25" y="75" class="piece">♟</text><text x="75" y="75" class="piece">♟</text><text x="125" y="125" class="piece">♟</text><text x="175" y="75" class="piece">♟</text><text x="225" y="75" class="piece">♟</text><text x="275" y="75" class="piece">♟</text><text x="325" y="75" class="piece">♟</text><text x="375" y="75" class="piece">♟</text>
   
-  <text x="400" y="58" text-anchor="middle" class="text">1. e4 (Opening)</text>
+  <text x="25" y="325" class="piece">♙</text><text x="75" y="325" class="piece">♙</text><text x="125" y="325" class="piece">♙</text><text x="175" y="325" class="piece">♙</text><text x="225" y="225" class="piece">♙</text><text x="275" y="325" class="piece">♙</text><text x="325" y="325" class="piece">♙</text><text x="375" y="325" class="piece">♙</text>
+  <text x="25" y="375" class="piece">♖</text><text x="75" y="375" class="piece">♘</text><text x="125" y="375" class="piece">♗</text><text x="175" y="375" class="piece">♕</text><text x="225" y="375" class="piece">♔</text><text x="275" y="375" class="piece">♗</text><text x="325" y="375" class="piece">♘</text><text x="375" y="375" class="piece">♖</text>
+  
+  <rect x="0" y="0" width="400" height="400" class="border" />
 </svg>
