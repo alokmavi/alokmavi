@@ -1,0 +1,70 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="paper-texture">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" result="noise"/>
+      <feDiffuseLighting lighting-color="#fff" surfaceScale="1" result="light">
+        <feDistantLight azimuth="45" elevation="60"/>
+      </feDiffuseLighting>
+      <feComposite operator="in" in="light" in2="SourceGraphic"/>
+    </filter>
+    
+    <filter id="pencil">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" result="noise" />
+      <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="2" in="SourceGraphic" in2="noise" />
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+      .page-bg { fill: #fdfbf7; filter: url(#paper-texture); }
+      .line { stroke: #dbe4eb; stroke-width: 1.5; }
+      .dot { fill: #dbe4eb; }
+      .margin-line { stroke: #e57373; stroke-width: 1.5; opacity: 0.6; }
+      .header-text { font-family: sans-serif; font-size: 10px; fill: #95a5a6; font-weight: 700; letter-spacing: 1px; }
+      .handwriting { 
+        font-family: 'Reenie Beanie', cursive; 
+        font-size: 42px; 
+        fill: #333; 
+        opacity: 0.85;
+        filter: url(#pencil); /* THE PENCIL EFFECT */
+      }
+      .signature { font-family: 'Reenie Beanie', cursive; font-size: 24px; fill: #555; }
+      .shadow { fill: rgba(0,0,0,0.1); }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="780" height="480" rx="5" class="shadow" />
+  
+  <rect x="0" y="0" width="780" height="480" rx="5" class="page-bg" />
+
+  <text x="30" y="40" class="header-text">No.</text>
+  <line x1="50" y1="40" x2="150" y2="40" stroke="#dbe4eb" stroke-width="1" />
+  <text x="650" y="40" class="header-text">DATE</text>
+  <line x1="680" y1="40" x2="750" y2="40" stroke="#dbe4eb" stroke-width="1" />
+
+  <g transform="translate(0, 60)">
+    <line x1="0" y1="0" x2="780" y2="0" stroke="#333" stroke-width="2" />
+    <line x1="0" y1="40" x2="780" y2="40" class="line" />
+    <line x1="0" y1="80" x2="780" y2="80" class="line" />
+    <line x1="0" y1="120" x2="780" y2="120" class="line" />
+    <line x1="0" y1="160" x2="780" y2="160" class="line" />
+    <line x1="0" y1="200" x2="780" y2="200" class="line" />
+    <line x1="0" y1="240" x2="780" y2="240" class="line" />
+    <line x1="0" y1="280" x2="780" y2="280" class="line" />
+    <line x1="0" y1="320" x2="780" y2="320" class="line" />
+    <line x1="0" y1="360" x2="780" y2="360" class="line" />
+    <line x1="0" y1="400" x2="780" y2="400" class="line" />
+  </g>
+
+  <line x1="60" y1="0" x2="60" y2="480" class="margin-line" />
+
+  <g transform="rotate(-1, 390, 240)">
+    <text x="390" y="230" text-anchor="middle" class="handwriting">
+      "if life is a notebook then this is
+    </text>
+    <text x="390" y="280" text-anchor="middle" class="handwriting">
+      my beech ka panna"
+    </text>
+  </g>
+
+  <text x="700" y="450" text-anchor="end" class="signature">- Alok Kumar Mavi</text>
+</svg>
