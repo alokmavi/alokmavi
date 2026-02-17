@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2EBD59&center=true&vCenter=true&width=500&lines=Creating+Order+From+Entropy;Turning+Data+Into+Decisions;Alok+Kumar+Mavi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2EBD59&center=true&vCenter=true&width=500&lines=Creating+Order+From+Entropy;Turning+Data+Into+Decisions;Alok+Kumar+Mavi" alt="Typing SVG" />
   
   <p align="center" style="color: #8b949e;">
     Computer Science Student @ COER University
   </p>
   
   <a href="#">
-    <img src="./spotify.svg" height="80" alt="Spotify Player">
+    <img src="https://raw.githubusercontent.com/alokmavi/alokmavi/main/spotify.svg" height="80" alt="Spotify Player">
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./notebook.svg" width="100%" alt="Beech ka Panna">
+  <img src="https://raw.githubusercontent.com/alokmavi/alokmavi/main/notebook.svg" width="100%" alt="Beech ka Panna">
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./chess.svg" width="100%" alt="Chess Divider">
+  <img src="https://raw.githubusercontent.com/alokmavi/alokmavi/main/chess.svg" width="300" alt="Chess Board">
 </div>
 
 <h2 align="center">The Middle Game (Projects)</h2>
