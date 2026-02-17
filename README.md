@@ -58,7 +58,7 @@
 <div align="center">
   <h3>1 - 0 (Resignation)</h3>
   
-  <a href="alokkumarmavi007@gmail.com">
+  <a href="mailto:alokkumarmavi007@gmail.com">
     <img src="https://img.shields.io/badge/e4-Email_Me-white?style=flat-square&logo=gmail&logoColor=black" />
   </a>
   &nbsp;
