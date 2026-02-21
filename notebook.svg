@@ -1,39 +1,73 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.0"/>
+      <stop offset="40%" stop-color="#000" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#000" stop-opacity="0.2"/>
+      <stop offset="60%" stop-color="#000" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.0"/>
+    </linearGradient>
+    
     <filter id="paper">
-      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="5" result="noise"/>
-      <feDiffuseLighting lighting-color="#fdfbf7" surfaceScale="2" result="light">
-        <feDistantLight azimuth="45" elevation="60"/>
-      </feDiffuseLighting>
-      <feComposite operator="in" in="light" in2="SourceGraphic" result="textured"/>
-      <feComposite in="SourceGraphic" in2="textured" operator="arithmetic" k1="1" k2="0" k3="0" k4="0"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="noise"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.05 0" in="noise" result="coloredNoise"/>
+      <feBlend in="SourceGraphic" in2="coloredNoise" mode="multiply"/>
     </filter>
+
     <style>
-      /* SYSTEM FONTS ONLY - Safe for GitHub */
-      .handwriting { font-family: 'Brush Script MT', 'Segoe Script', 'Chalkboard SE', 'Comic Sans MS', cursive; font-size: 38px; fill: #2c3e50; opacity: 0.9; }
-      .header { font-family: 'Arial', sans-serif; font-size: 10px; fill: #95a5a6; letter-spacing: 2px; font-weight: bold; }
-      .lines { stroke: #d1d8e0; stroke-width: 1.5; }
-      .margin { stroke: #ff7675; stroke-width: 1.5; opacity: 0.5; }
+      .handwriting { font-family: 'Brush Script MT', 'Segoe Script', 'Bradley Hand', cursive; font-size: 32px; fill: #2c3e50; opacity: 0.85; }
+      .lines { stroke: #d1d8e0; stroke-width: 1.2; }
+      .margin { stroke: #ff7675; stroke-width: 1.5; opacity: 0.6; }
+      .campus-logo { font-family: sans-serif; font-size: 14px; font-weight: 900; fill: #fff; letter-spacing: 1px; }
+      .campus-sub { font-family: sans-serif; font-size: 8px; fill: #fff; }
     </style>
   </defs>
 
-  <rect x="0" y="0" width="800" height="500" fill="#fdfbf7" filter="url(#paper)" />
-  
-  <text x="40" y="40" class="header">NO.</text>
-  <line x1="65" y1="40" x2="150" y2="40" stroke="#d1d8e0" />
-  <text x="650" y="40" class="header">DATE</text>
-  <line x1="685" y1="40" x2="760" y2="40" stroke="#d1d8e0" />
+  <g transform="translate(20, 40)">
+    <g transform="rotate(-6, 50, 200)">
+      <rect x="20" y="50" width="200" height="280" rx="4" fill="#e8f5e9" stroke="#c8e6c9"/>
+      <rect x="20" y="50" width="25" height="280" fill="#2e7d32" rx="2"/> </g>
 
-  <line x1="0" y1="60" x2="800" y2="60" stroke="#2d3436" stroke-width="3" stroke-dasharray="2,4" />
+    <g transform="rotate(-2, 50, 200)">
+      <rect x="40" y="40" width="200" height="280" rx="4" fill="#fce4ec" stroke="#f8bbd0"/>
+      <rect x="40" y="40" width="25" height="280" fill="#c2185b" rx="2"/>
+    </g>
 
-  <path d="M0,100 L800,100 M0,140 L800,140 M0,180 L800,180 M0,220 L800,220 M0,260 L800,260 M0,300 L800,300 M0,340 L800,340 M0,380 L800,380 M0,420 L800,420 M0,460 L800,460" class="lines" />
-  
-  <line x1="60" y1="0" x2="60" y2="500" class="margin" />
-
-  <g transform="rotate(-1.5, 400, 250)">
-    <text x="400" y="210" text-anchor="middle" class="handwriting">"if life is a notebook then this is</text>
-    <text x="400" y="260" text-anchor="middle" class="handwriting">my beech ka panna"</text>
+    <g transform="rotate(2, 50, 200)">
+      <rect x="65" y="35" width="200" height="280" rx="4" fill="#000" opacity="0.1"/>
+      <rect x="60" y="30" width="200" height="280" rx="4" fill="#e3f2fd" stroke="#bbdefb"/>
+      <rect x="60" y="30" width="25" height="280" fill="#1565c0" rx="2"/>
+      
+      <rect x="95" y="60" width="150" height="3" fill="#1565c0"/>
+      <rect x="95" y="65" width="100" height="25" fill="#1565c0"/>
+      <text x="100" y="83" class="campus-logo">CAMPUS</text>
+      <text x="95" y="100" class="campus-sub">NOTEBOOK • B5 • 30 SHEETS</text>
+      <rect x="95" y="110" width="150" height="1" fill="#1565c0"/>
+    </g>
   </g>
 
-  <text x="750" y="450" text-anchor="end" class="handwriting" style="font-size: 24px;">- Alok Kumar Mavi</text>
+  <rect x="285" y="45" width="570" height="400" rx="5" fill="#000" opacity="0.15"/>
+
+  <g filter="url(#paper)">
+    <rect x="280" y="40" width="285" height="400" rx="4" fill="#fdfcf8" stroke="#dcdde1"/>
+    <rect x="565" y="40" width="285" height="400" rx="4" fill="#fdfcf8" stroke="#dcdde1"/>
+    
+    <rect x="550" y="40" width="30" height="400" fill="url(#spine)"/>
+
+    <g>
+      <line x1="280" y1="80" x2="565" y2="80" stroke="#95a5a6" stroke-width="2"/>
+      <path d="M280,120 L565,120 M280,150 L565,150 M280,180 L565,180 M280,210 L565,210 M280,240 L565,240 M280,270 L565,270 M280,300 L565,300 M280,330 L565,330 M280,360 L565,360 M280,390 L565,390" class="lines"/>
+      <line x1="320" y1="40" x2="320" y2="440" class="margin"/>
+    </g>
+
+    <g>
+      <line x1="565" y1="80" x2="850" y2="80" stroke="#95a5a6" stroke-width="2"/>
+      <path d="M565,120 L850,120 M565,150 L850,150 M565,180 L850,180 M565,210 L850,210 M565,240 L850,240 M565,270 L850,270 M565,300 L850,300 M565,330 L850,330 M565,360 L850,360 M565,390 L850,390" class="lines"/>
+      </g>
+
+    <g transform="rotate(-1, 565, 200)">
+      <text x="430" y="235" text-anchor="middle" class="handwriting">if life is a notebook</text>
+      <text x="700" y="265" text-anchor="middle" class="handwriting">then this is my "beech ka panna"</text>
+    </g>
+  </g>
 </svg>
