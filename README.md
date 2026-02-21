@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/chess.svg" width="150" alt="Chess Board">
+  <img src="https://raw.githubusercontent.com/alokmavi/alokmavi/main/chess.svg" width="150" alt="Chess Board">
 </div>
 
 <br />
