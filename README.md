@@ -1,50 +1,28 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EBD59&center=true&vCenter=true&width=500&lines=Creating+Order+From+Entropy;Turning+Data+Into+Decisions;Alok+Kumar+Mavi" alt="Typing SVG" />
-  
-  <p style="color: #8b949e; margin-top: -10px;">
-    Senior Computer Science Student @ COER University
-  </p>
-  
-  <img src="https://raw.githubusercontent.com/AlokMavi/AlokMavi/main/notebook.svg" width="650" alt="Notebook Graphic">
-</div>
+<h1 align="center">Hi 👋, I'm Alok Kumar Mavi</h1>
+<h3 align="center">A software developer from India</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokmavi&label=Profile%20views&color=0e75b6&style=flat" alt="alokmavi" /> </p>
 
-### ♟️ The Middle Game (Projects)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokmavi" alt="alokmavi" /></a> </p>
 
-<div align="center">
-  <a href="https://github.com/AlokMavi/AI-Chatbot-Repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlokMavi&repo=AI-Chatbot-Repo&theme=transparent&hide_border=true&title_color=2ebd59&text_color=8b949e&icon_color=2ebd59" width="400" alt="AI Chatbot" />
-  </a>
-  <a href="https://github.com/AlokMavi/Alzheimer-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlokMavi&repo=Alzheimer-Detection&theme=transparent&hide_border=true&title_color=2ebd59&text_color=8b949e&icon_color=2ebd59" width="400" alt="Alzheimer Detection" />
-  </a>
-  <a href="https://github.com/AlokMavi/Behavior-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlokMavi&repo=Behavior-Prediction-System&theme=transparent&hide_border=true&title_color=2ebd59&text_color=8b949e&icon_color=2ebd59" width="400" alt="Behavior Prediction" />
-  </a>
-</div>
+- 🔭 I’m currently working on [Behaviour Prediction System](https://github.com/alokmavi/Behavior-Prediction-System)
 
-<br />
+- 👯 I’m looking to collaborate on **Hotel Chatbot**
 
-### ⚒️ Toolkit
+- ⚡ Fun fact **I LOVE learning about languages**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=2ebd59" />
-  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=2ebd59" />
-  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=2ebd59" />
-  <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js&logoColor=2ebd59" />
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=2ebd59" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/alokmavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alokmavi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alokatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokatos" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alokkumarzfrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokkumarzfrl" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <p style="color: #8b949e; font-family: monospace;">1 - 0</p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/e4_Email-121212?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/alokkumarmavi">
-    <img src="https://img.shields.io/badge/Nf3_LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokmavi&show_icons=true&locale=en&layout=compact" alt="alokmavi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokmavi&show_icons=true&locale=en" alt="alokmavi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokmavi&" alt="alokmavi" /></p>
