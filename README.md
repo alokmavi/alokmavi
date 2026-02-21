@@ -19,50 +19,47 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alokmavi/alokmavi/main/chess.svg" width="300" alt="Chess Board">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/chess.svg" width="150" alt="Chess Board">
 </div>
-
-<h2 align="center">The Middle Game (Projects)</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="33%">
-      <h3>♟️ Sicilian Defense</h3>
-      <sub>(Sharp & Aggressive)</sub>
-      <br/><br/>
-      <strong>AI Context-Aware Chatbot</strong>
-      <br/><br/>
-      <a href="#">View Code</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>♕ Queen's Gambit</h3>
-      <sub>(Strategic & Solid)</sub>
-      <br/><br/>
-      <strong>Alzheimer's Detection</strong>
-      <br/><br/>
-      <a href="#">View Code</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>♗ Ruy Lopez</h3>
-      <sub>(Positional Control)</sub>
-      <br/><br/>
-      <strong>Behavior Prediction</strong>
-      <br/><br/>
-      <a href="https://github.com/alokmavi/Behavior-Prediction-System">View Code</a>
-    </td>
-  </tr>
-</table>
 
 <br />
 
+<h2 align="center">The Middle Game (Projects)</h2>
+
+<div align="center">
+  
+  <br />
+  <h3>♟️ Sicilian Defense</h3>
+  <p><i>(Sharp & Aggressive)</i></p>
+  <strong>AI Context-Aware Chatbot</strong><br/>
+  <a href="https://github.com/AlokMavi/AI-Chatbot-Repo">View Code ↗</a>
+  
+  <br /><br /><br />
+
+  <h3>♕ Queen's Gambit</h3>
+  <p><i>(Strategic & Solid)</i></p>
+  <strong>Alzheimer's Detection</strong><br/>
+  <a href="https://github.com/AlokMavi/Alzheimer-Detection">View Code ↗</a>
+  
+  <br /><br /><br />
+
+  <h3>♗ Ruy Lopez</h3>
+  <p><i>(Positional Control)</i></p>
+  <strong>Behavior Prediction</strong><br/>
+  <a href="https://github.com/AlokMavi/Behavior-Prediction-System">View Code ↗</a>
+
+</div>
+
+<br /><br />
+
 <div align="center">
   <h3>1 - 0 (Resignation)</h3>
-  
-  <a href="mailto:alokkumarmavi007@gmail.com">
-    <img src="https://img.shields.io/badge/e4-Email_Me-white?style=flat-square&logo=gmail&logoColor=black" />
+  <br />
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/e4-Email_Me-121212?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/Nf3-Connect_LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nf3-Connect_LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
