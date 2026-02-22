@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokmavi&label=Profile%20views&color=0e75b6&style=flat" alt="alokmavi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokmavi" alt="alokmavi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=alokmavi&theme=darkhub" alt="alokmavi" /></a> </p>
 
 - 🔭 I’m currently working on [Behaviour Prediction System](https://github.com/alokmavi/Behavior-Prediction-System)
 
@@ -24,9 +24,9 @@
 ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
-                codeQuality++;
+                        codeQuality++;
             }
-        }
+}
 // - Alok Kumar Mavi
 ```
 
