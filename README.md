@@ -32,6 +32,7 @@ if (codeWorking){
 }
 // - Alok Kumar Mavi
 ```
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="My Octo" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokmavi&show_icons=true&locale=en&layout=compact" alt="alokmavi" /></p>
 
