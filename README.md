@@ -1,3 +1,5 @@
+<img align="center" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMxNzI5MDcsIm5iZiI6MTc3MzE3MjYwNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzEwVDE5NTY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkMWUwOTlhOTc2NjdjMTEzZjE3YWNlZjI1YWIxNzFjMmJhYTk3MDI2ZWJkMzgyNDljZjAyMGZkNWI4ZGU0OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lFZaRjmHTsduTmSsBOrZs2iK_6wPp8psjj2AUs70ats" />
+
 <h1 align="center">Hi 👋, I'm Alok Kumar Mavi</h1>
 <h3 align="center">A software developer from India</h3>
 
@@ -37,8 +39,4 @@ if (codeWorking){
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokmavi&show_icons=true&locale=en" alt="alokmavi" /></p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="My Octo" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokmavi&" alt="alokmavi" /></p>
-
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
