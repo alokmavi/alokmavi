@@ -32,11 +32,12 @@ if (codeWorking){
 }
 // - Alok Kumar Mavi
 ```
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="My Octo" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokmavi&show_icons=true&locale=en&layout=compact" alt="alokmavi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokmavi&show_icons=true&locale=en" alt="alokmavi" /></p>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="My Octo" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokmavi&" alt="alokmavi" /></p>
 
