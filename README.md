@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://kaggle.com/alokmavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alokmavi" height="30" width="40" /></a>
 <a href="https://github.com/alokmavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alokmavi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/alok-kumar-mavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alok-kumar-mavi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alok-kumar-mavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alok-kumar-mavi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alokatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokatos" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/alokkumarzfrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokkumarzfrl" height="30" width="40" /></a>
 </p>
